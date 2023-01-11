@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+<link rel="stylesheet" href="C:\Users\yeival\Documents\styles.css">
+<meta charset="utf-8"> 
+<title>Tarea HTML de Yeison </title>
+</head>
+<body>
+<div class="divClass">
+<h1> Yeison Valdeblanquez  </h1>
+<h3> Henry  </h3>
+<h4> Tarea de HTML / CSS  </h4>
+</div>
+
+<div class="divClass">
+<span id="spanid"> Hamburguesa</span>
+<a href="https://www.elcorral.com">Link</a>
+</div>
+
+<div id="thirdDiv">
+<ul>
+<li>
+<span> Elemento 1 </span>
+</li>
+<li>
+<p> Elemento 2 </p>
+<img src="C:\Users\yeival\Pictures\Prueba.png" alt= "Mi imagen de prueba">
+</li>
+</ul>
+</div>
+
+</body>
+</html>
